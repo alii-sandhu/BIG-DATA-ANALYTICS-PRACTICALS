@@ -1,0 +1,23 @@
+# Lab 3 - NumPy Operations
+
+## Objective
+To perform different NumPy operations and understand performance comparison.
+
+## Tasks Performed
+- Created 1D, 2D, and 3D arrays
+- Performed indexing and slicing
+- Reshaped arrays
+- Applied mathematical operations
+- Calculated statistical values (mean, median, std, percentiles)
+- Performed linear algebra operations
+- Generated random numbers
+- Used temperature dataset
+- Compared performance of Python list vs NumPy array
+
+## Tools Used
+- Python
+- NumPy
+- Jupyter Notebook / Google Colab
+
+## Conclusion
+NumPy provides efficient and fast operations for data processing compared to normal Python lists.
